@@ -1,6 +1,6 @@
 /*
  * File: alias_builtins.c
- * Auth: Mercy & Prince
+ * Auth: Nobert & Divine
  */
 #include "shell.h"
 
